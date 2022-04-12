@@ -30,6 +30,7 @@ class QueueDeque:
          
 
 if __name__ == '__main__':
+    # Test
     queue=QueueDeque()
     queue.enqueue(1)
     queue.enqueue(2)

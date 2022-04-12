@@ -51,6 +51,7 @@ class StackDeque:
     
 
 if __name__ == '__main__':
+    # Test
     stack=StackDeque()
     stack.push(1)
     stack.push(2)
