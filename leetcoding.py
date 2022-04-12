@@ -166,9 +166,4 @@ class Solution:
 
 if __name__ == '__main__':
     test = Solution()
-    nums = [7,1,5,3,6,4]
-    letters = ["c", "a", "f", "j"]
-    s = "aacc"
-    t = "ccac"
-
-    print(test.maxProfit(nums))
+    
